@@ -3,7 +3,7 @@
 The idea is to create a generalized tool that can be seamlessly combined with other system like electric wheelchair, movable patient bed, eye-controlled alerting mechanism for disabled people etc. The main objective here is to capture live image and also establish the system that can recognize pupil movement in live image. 
 
 Software Requirements
-* Operating System: Linux
+* Operating System: Linux/Raspbian OS
 * Back End: Python, OpenCV Library
 
 Hardware Requirements
